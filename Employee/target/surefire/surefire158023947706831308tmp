@@ -1,0 +1,25 @@
+#surefire
+#Sat Jan 02 13:34:53 IST 2016
+testClassesDirectory=C\:\\Users\\USER\\workspace\\Employee\\target\\test-classes
+classPathUrl.3=C\:\\Users\\USER\\.m2\\repository\\log4j\\log4j\\1.2.17\\log4j-1.2.17.jar
+classPathUrl.2=C\:\\Users\\USER\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\USER\\workspace\\Employee\\target\\classes
+reportsDirectory=C\:\\Users\\USER\\workspace\\Employee\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\USER\\workspace\\Employee\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\USER\\workspace\\Employee\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\USER\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\USER\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.12.4\\surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.company.emp.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\Users\\USER\\workspace\\Employee\\.surefire-F64DB47045B98D0019B5CC3F932AC30110A8FD60
+includes0=**/Test*.java
+childDelegation=false

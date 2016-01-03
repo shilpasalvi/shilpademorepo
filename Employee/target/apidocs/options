@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/USER/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/USER/workspace/Employee/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2016. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/workspace/Employee/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'employee 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/USER/workspace/Employee/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'employee 1.0-SNAPSHOT API'
